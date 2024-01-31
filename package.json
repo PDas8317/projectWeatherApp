@@ -1,8 +1,8 @@
 {
-  "homepage": "https://github.com/PDas8317/projectWeatherApp.git",
   "name": "weather-app",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://PDas8317.github.io/projectWeatherApp/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
