@@ -1,3 +1,2 @@
-# React + Vite
-
-This is a project made using React.
+# weather app
+This is a REACT based project
