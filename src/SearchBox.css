@@ -1,0 +1,24 @@
+.inp {
+    background-color: rgb(144, 218, 255);
+    width: 280px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.inp:hover {
+    border: 2px solid rgb(11, 28, 212)
+}
+
+.btn {
+    background-color: white;
+    height: 58px;
+    width: 58px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.btn:hover {
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(238, 239, 244)
+}

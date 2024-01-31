@@ -1,0 +1,27 @@
+body {
+    font-family: 'Times New Roman', Times, serif Arial, 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+}
+
+.infoBox {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+
+}
+
+.innerDiv {
+    background-color: hsla(76, 75%, 92%, 0);
+    border: 5px solid rgb(9, 20, 231);
+}
+
+.container {
+    border-top: 5px solid rgb(11, 5, 78);
+    border-bottom: 5px solid rgb(11, 5, 78);
+}
+
+p {
+    font-weight: bolder;
+    font-size: larger;
+    color: black;
+
+}
